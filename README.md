@@ -1,5 +1,4 @@
-*This repo is meant as a reference for a gist I wrote [here](https://gist.github.com/efournier92/6371394412b1fe1748f7dfeb0cb035bf/edit).*
-
+*This repo is an accompaniment to a gist I wrote [here](https://gist.github.com/efournier92/6371394412b1fe1748f7dfeb0cb035bf/edit).*
 #Quant Algos & OSX 
 
 ##QuantConnect & Me
